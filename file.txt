@@ -1,0 +1,42 @@
+Android is a mobile platform:
+app.brainovision.in
+
+course overview at: developers.google.com/training/adf
+
+goo.gl/NjZkpJ
+
+HELLO WORLD
+COUNT AND TOAST APP
+INTENTS APP
+ACTIVITY LIFECYCLE
+SCROLLVIEW APP
+UI INPUT CONTROLS APP
+MENUS APP(Whatsapp)
+SCREEN NAVIGATION
+RECYCLERVIEW APP(MOVIE INFO APP)
+MUSIC PLAYER
+CONTACTS APP
+
+*BULDING BLOCKS:
+1.ACTICITIES
+2.SERVICES
+3.BROADCAST RECEIVER
+4.CONTENT PROVIDER
+Activity is a single screen with a user interface
+Service performs long-running tasks in background
+Content provider manages shared set of data
+Broadcast receiver responds to system-wide announcements : charging and Bluetooth
+ Used in video call
+
+Content Provider ex.: contacts.
+Content Resolver Class : Whatsapp.
+24-03-2019
+For Scrolling:
+Recycler View
+Scroll view
+List view
+
+int integer[]= {R.drawable.a, R.drawable.b, R.drawable.c….);
+String title[]={“Attarintiki Daredi”,”Bahubali”,”Chirutha”,Dhruvu”,”Eega”,”Gabbar Singh”,”Happy Days”,”I”,”Janatha Garage”);
+Design library is a part of support library.
+
